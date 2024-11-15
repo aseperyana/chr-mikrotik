@@ -11,7 +11,7 @@ sudo apt upgrade
 
 apt-get install git
 
-git clone https://github.com/aseperyana/chr
+git clone https://github.com/aseperyana/chr-mikrotik
 
 cd chr
 
