@@ -1,7 +1,6 @@
 CHR Ubuntu
 
-Script berikut ini digunakan untuk melakukan install Mikrotik CHR di VPS Ubuntu versi 20.04, 22.04, and 24.04.
-Ikuti langkah-langkah di bawah ini!
+This script is used to install Mikrotik CHR on VPS Ubuntu versions 20.04, 22.04, and 24.04. Follow the steps below!
 
 sudo su
 
