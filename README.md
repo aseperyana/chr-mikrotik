@@ -13,7 +13,7 @@ apt-get install git
 
 git clone https://github.com/aseperyana/chr-mikrotik
 
-cd chr
+cd chr-mikrotik
 
 chmod +x install.sh
 
