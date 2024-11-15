@@ -7,7 +7,7 @@ sudo su
 
 git clone https://github.com/aseperyana/chr
 
-cd ACHR-Ubuntu
+cd chr
 
 chmod +x install.sh
 
