@@ -5,6 +5,12 @@ Ikuti langkah-langkah di bawah ini!
 
 sudo su
 
+sudo apt update
+
+sudo apt upgrade
+
+apt-get install git
+
 git clone https://github.com/aseperyana/chr
 
 cd chr
