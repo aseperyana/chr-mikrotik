@@ -1,19 +1,20 @@
-CHR Mikrotik
+# CHR Mikrotik
+```sh
+Mikrotik CHR Versiona: 7.16.1
+```
+This script is used to install Mikrotik CHR on VPS Ubuntu versions 18.04, 20.04, 22.04, and 24.04
 
-This script is used to install Mikrotik CHR on VPS Ubuntu versions 18.04, 20.04, 22.04, and 24.04. Follow the steps below!
+## Installation
 
-1) sudo apt update
+Please access your VPS using the remote control application, and follow these steps:.
 
-2) sudo apt upgrade
-
-3) sudo su
-
-4) apt-get install git
-
-5) git clone https://github.com/aseperyana/chr-mikrotik
-
-6) cd chr-mikrotik
-
-7) chmod +x install.sh
-
-8) bash install.sh
+```sh
+sudo su
+sudo apt update
+sudo apt upgrade
+sudo apt-get install git
+git clone https://github.com/aseperyana/chr-mikrotik
+cd chr-mikrotik
+chmod +x install.sh
+bash install.sh
+```
