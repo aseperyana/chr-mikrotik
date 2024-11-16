@@ -42,7 +42,7 @@ echo -e "\e[33m | |      |  __  | |  _  /      / /\ \   | | | | | __|  / _ \ \e[
 echo -e "\e[33m | |____  | |  | | | | \ \     / ____ \  | |_| | | |_  | (_) |\e[0m"
 echo -e "\e[33m  \_____| |_|  |_| |_|  \_\   /_/    \_\  \__,_|  \__|  \___/ \e[0m"
 echo -e "\e[33m                                                              \e[0m"
-echo -e "\e[33m                            === By Mostech ===                 \e[0m"
+echo -e "\e[33m                   === CHR for VPS Ubuntu ===                 \e[0m"
 
 
 # Check if the user is root
