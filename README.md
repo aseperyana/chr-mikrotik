@@ -11,7 +11,6 @@ Please access your VPS using the remote control application, and follow these st
 ```sh
 sudo su
 sudo apt update
-sudo apt upgrade
 sudo apt-get install git
 git clone https://github.com/aseperyana/chr-mikrotik
 cd chr-mikrotik
